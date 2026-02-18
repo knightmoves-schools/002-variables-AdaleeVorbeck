@@ -7,9 +7,13 @@ public class Course
     
     public int CourseLength(){
         // Add your code here
-        int CourseLength;
-        CourseLength = 20;
-        return CourseLength;
+        int courseLength;
+        courseLength = 20;
+
+        
+        
+        return courseLength;
     }
 }
+
 
